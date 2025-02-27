@@ -1,5 +1,4 @@
-# EmilyParkerTKH
-Overview
+
     This is a portfolio website for Emily Parker, a Front-End and UX/UI Developer. It features a color gradient design, a navigation bar, project showcases, testimonials, and more.
 
 Features
@@ -11,3 +10,4 @@ Features
 Programs Used
     HTML5
     CSS3
+
